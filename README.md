@@ -10,6 +10,7 @@ PHP 8.1
 ### Steps For Deployment:
 
 - **Git clone**
+git clone: https://github.com/priyankamackwan/Laravel-Blogs.git
 - **Run cp .env.example .env file to copy example file to env**
 
 - **Then edit your .env file with DB credentials and other settings**
