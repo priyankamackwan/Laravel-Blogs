@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+#Laravel-Blogs
 
 # Project Setup Steps
 
@@ -9,8 +9,7 @@ PHP 8.1
 
 ### Steps For Deployment:
 
-- **Git clone**
-git clone: https://github.com/priyankamackwan/Laravel-Blogs.git
+-  git clone: https://github.com/priyankamackwan/Laravel-Blogs.git
 - **Run cp .env.example .env file to copy example file to env**
 
 - **Then edit your .env file with DB credentials and other settings**
